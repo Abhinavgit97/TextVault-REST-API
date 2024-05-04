@@ -38,3 +38,15 @@ Now open your browser and go to this address
 ```
 http://127.0.0.1:8000
 ```
+
+
+# API Documentation
+
+## 1. Login API
+- **Endpoint**: `/login/`
+- **Sample Payload**:
+  ```json
+  {
+      "username": "abhinavtp",
+      "password": "abhinav123"
+  }
