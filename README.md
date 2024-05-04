@@ -1,7 +1,7 @@
 
 
 # Textvault
-Text storage and retrieval app using Django REST Framework
+Text storage and retrieval API services using Django REST Framework
 
 
 
@@ -15,7 +15,7 @@ Text storage and retrieval app using Django REST Framework
 Example
 
 ```
-cd ~/Destop/Textvault-master
+cd ~/Destop/TextVault-REST-API-main
 ```
 
 
