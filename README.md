@@ -51,6 +51,8 @@ http://127.0.0.1:8000
       "password": "abhinav123"
   }
 
+-**Note**: `create user with the command 'python manage.py createsuperuser'`
+
 ## 2. Refresh API
 - **Endpoint**: `/refresh/`
 - **Sample Payload**:
